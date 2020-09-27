@@ -1,2 +1,2 @@
-# vue-waimai-project
-vue外卖项目，熟悉vue全家桶的使用
+# vue-waimai-data
+vue外卖项目后台数据接口
